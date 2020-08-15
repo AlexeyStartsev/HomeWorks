@@ -1,4 +1,4 @@
-package com.company;
+package com.company.first;
 
 public class Bar {
     int bottles;

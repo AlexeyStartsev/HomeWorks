@@ -1,4 +1,6 @@
-package com.company;
+package com.company.first;
+
+import com.company.first.Bar;
 
 public class Barman {
     public void giveBottle(Bar a){

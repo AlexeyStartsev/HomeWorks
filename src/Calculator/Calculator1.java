@@ -38,7 +38,7 @@ public class Calculator1 {
             System.out.println(division(str));}
        if (str.contains("%")){
             System.out.println(percent(str));}
-       //else System.out.println("There is no operation");
+       System.out.println("There is no operation");
 
        
     }

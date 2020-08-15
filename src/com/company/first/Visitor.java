@@ -1,4 +1,4 @@
-package com.company;
+package com.company.first;
 
 import com.company.first.Bar;
 import com.company.first.Barman;
